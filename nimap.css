@@ -1,0 +1,188 @@
+body {
+    padding: 0;
+    margin: 0;
+  }
+
+  .navbar {
+    padding-top: 40px;
+
+
+  }
+
+  
+.navbar-brand {
+  color:black;
+  background: white;
+  cursor: pointer;
+}
+
+.nav-link {
+  color:white;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.nav-link {
+  margin-right: 1em !important;
+}
+
+#main-navigation {
+  margin-left: 320px;
+}
+
+.header{
+  background-image: url("blur-1867997_1920.jpg");
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  height: 660px;
+  border-bottom: 5px solid skyblue;
+
+}
+
+.look{
+  font-size: 40px;
+  color: white;
+  font-style: italic;
+}
+
+#exampleInputEmail{
+  font-style: italic;
+
+}
+
+
+.forem{
+  margin-top: 200px;
+}
+#exampleInputEmail{
+  width: 700px;
+  height: 40px;
+}
+
+.form-check-label{
+  color: white;
+  font-style: italic;
+  font-size: 16px;
+  margin-left: 10px;
+}
+#check1{
+  margin-top: 20px;
+}
+
+.form-check-labels{
+  color: white;
+  font-style: italic;
+  font-size: 16px;
+  margin-left: 10px;
+}
+ 
+#check2 {
+  margin-top: -38px;
+  margin-left: 130px;
+  margin-bottom: 50px;
+}
+
+#selector{
+  margin-left: 500px;
+  width: 200px;
+  position: absolute;
+  margin-top: -80px;
+}
+
+#search{
+  width: 100px;
+  margin-left: 800px;
+  margin-top: -267px;
+  font-style: italic;
+
+}
+
+#register{
+  float: left;
+  margin-left: 273px;
+  width: 120px;
+
+  }
+
+  .line{
+    color:red;
+    width: 150px;
+    padding-top: 20px;
+    border-top: 5px solid skyblue;
+    margin-top: 40px;
+
+  }
+
+  #find{
+    color: skyblue;
+    background:#e6e6e6;
+    border: 1px solid skyblue;
+    margin-top: 40px;
+    margin-bottom: 80px;
+
+  }
+
+  .con{
+    background: black;
+    padding-top: 150px;
+    border-top: 5px solid skyblue;
+    border-bottom: 5px solid skyblue;
+
+  }
+
+  #email{
+    color: white;
+    border: 2px solid skyblue;
+    background: black;
+    width: 287px;
+    margin-left: 412px;
+    margin-top: 20px;
+    margin-bottom: 130px;
+
+
+  }
+
+  .cont{
+    background:#e6e6e6;
+    padding-top: 90px;
+  }
+
+.leaders{
+  text-align: center;
+
+}
+
+.abc{
+  color: white;
+  text-align: center;
+}
+
+.last{
+  background:#e6e6e6 ;
+  padding-top: 40px;
+}
+
+.para{
+  margin-top: 10px;
+  font-size: small;
+  color: grey;
+}
+ 
+.reg{
+  color: white;
+}
+  
+
+   #modal-head{
+background: skyblue;
+   }
+
+.name{
+  height: 40px;
+}
+
+   .input{
+     width: 368px;
+     height: 40px;
+   }
